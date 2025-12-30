@@ -145,8 +145,3 @@ Game_Numerical_Modeling/
 * `scikit-learn`: 逻辑回归分析
 * `matplotlib`, `seaborn`: 绘图与可视化
 * `tqdm`: 进度条显示
-
----
-
-**Next Step Suggestion**:
-您可以先创建上述文件夹结构，然后我可以为您提供 `src/config.py` 和 `src/utils/data_generator.py` 的具体代码，帮您完成第一步数据生成。
